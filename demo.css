@@ -1,0 +1,32 @@
+.container {
+    margin: 5px;
+    padding: 5px;;
+}
+h1 {
+
+    background: yellow;
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+      
+}
+input[type="submit"] {
+    width: 50%;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+    text-align: center;
+    
+}
+img{
+    width: 50%;
+}
